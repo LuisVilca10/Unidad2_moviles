@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "400306804266",
+    "project_id": "loginmovil-5260e",
+    "storage_bucket": "loginmovil-5260e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400306804266:android:89fab74626bd58f71a1553",
+        "android_client_info": {
+          "package_name": "pe.edu.upeu.asistencia_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400306804266-heul8i54qeelesrlf4mqcm6khjea2m2u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pe.edu.upeu.asistencia_app",
+            "certificate_hash": "e243a826dd4eefa720a335d8dc3bcc3b73dbe709"
+          }
+        },
+        {
+          "client_id": "400306804266-ncj81f0c3uh0ub94o5tvkjdpj4ns6784.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pe.edu.upeu.asistencia_app",
+            "certificate_hash": "3ebc82a8d259c4a4f6e974c19fcb87be82099646"
+          }
+        },
+        {
+          "client_id": "400306804266-gbc9cmkn9p8irckv8r07imd7qld9rchl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeAe2scczlwQPvIdHthsWZs7BBFv7ai7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400306804266-gbc9cmkn9p8irckv8r07imd7qld9rchl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "400306804266-lt2k4jonftrul3i2ansdm55e54dkoe0m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "pe.edu.upeu.asistenciaApp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
